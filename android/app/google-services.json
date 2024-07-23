@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21094743457",
+    "project_id": "e-commerce-ddb4c",
+    "storage_bucket": "e-commerce-ddb4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21094743457:android:c5d0d0b1d8f08cc101dfe0",
+        "android_client_info": {
+          "package_name": "com.royalclass.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvLk5RDw5UeKLCpbhtwlxjuKaAd-_Urkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
