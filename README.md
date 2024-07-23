@@ -6,7 +6,7 @@ This E-Commerce App, developed using Flutter, offers a comprehensive shopping pl
 ## Features
 - **User Authentication:** Provides secure login and registration processes.
 - **Product Browsing:** Allows users to explore a wide range of products across diverse categories.
-- **Favorites and Cart:** Enables users to bookmark their favorite products and manage their shopping cart.
+- **Cart:** Enables users to manage their shopping cart.
 - **Product Details:** Offers detailed information and specifications for each product.
 
 ## Getting Started
